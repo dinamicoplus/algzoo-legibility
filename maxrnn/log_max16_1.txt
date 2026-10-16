@@ -1,0 +1,10 @@
+max H=16 seed=1 step 2000 loss 1.236 val acc (hard) 0.5239  tau 0.21388648976849764  74s
+max H=16 seed=1 step 4000 loss 1.100 val acc (hard) 0.5824  tau 0.1524656275485288  148s
+max H=16 seed=1 step 6000 loss 1.071 val acc (hard) 0.6054  tau 0.1086827298392106  226s
+max H=16 seed=1 step 8000 loss 1.002 val acc (hard) 0.6198  tau 0.07747277832535189  303s
+max H=16 seed=1 step 10000 loss 0.946 val acc (hard) 0.6266  tau 0.05522525419014362  378s
+max H=16 seed=1 step 12000 loss 0.990 val acc (hard) 0.6366  tau 0.039366455757634325  453s
+max H=16 seed=1 step 14000 loss 0.938 val acc (hard) 0.6412  tau 0.028061760179174833  527s
+max H=16 seed=1 step 16000 loss 0.970 val acc (hard) 0.6424  tau 0.020003385349233783  601s
+max H=16 seed=1 step 18000 loss 0.985 val acc (hard) 0.6424  tau 0.02  677s
+max H=16 seed=1 step 20000 loss 0.947 val acc (hard) 0.6429  tau 0.02  754s

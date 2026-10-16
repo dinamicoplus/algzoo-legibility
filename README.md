@@ -1,0 +1,3 @@
+# algzoo-legibility
+
+A quick, informal experiment on ARC's 432-parameter AlgZoo model (`example_2nd_argmax`), plus a small max-only RNN. To run it, install PyTorch and AlgZoo (`pip install torch`, then `git clone https://github.com/alignment-research-center/alg-zoo && pip install -e alg-zoo`) and run any script in `analysis/` with Python, for example `python analysis/replace2.py` or `python analysis/ablate2.py`; each prints its results. The max-only RNN is trained with `python maxrnn/train.py max 16 20000 0` and read with `python maxrnn/refit.py maxrnn/max_16_0.pt 1.0`. Everything runs on CPU.

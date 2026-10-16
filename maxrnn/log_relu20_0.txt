@@ -1,0 +1,10 @@
+relu H=20 seed=0 step 2000 loss 0.545 val acc (hard) 0.7853  tau None  7s
+relu H=20 seed=0 step 4000 loss 0.420 val acc (hard) 0.8475  tau None  15s
+relu H=20 seed=0 step 6000 loss 0.365 val acc (hard) 0.8747  tau None  30s
+relu H=20 seed=0 step 8000 loss 0.336 val acc (hard) 0.8810  tau None  45s
+relu H=20 seed=0 step 10000 loss 0.302 val acc (hard) 0.8778  tau None  56s
+relu H=20 seed=0 step 12000 loss 0.304 val acc (hard) 0.8984  tau None  63s
+relu H=20 seed=0 step 14000 loss 0.281 val acc (hard) 0.9050  tau None  69s
+relu H=20 seed=0 step 16000 loss 0.283 val acc (hard) 0.9099  tau None  77s
+relu H=20 seed=0 step 18000 loss 0.271 val acc (hard) 0.9106  tau None  90s
+relu H=20 seed=0 step 20000 loss 0.276 val acc (hard) 0.9127  tau None  106s
